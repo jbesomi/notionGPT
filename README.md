@@ -1,0 +1,3 @@
+# NotionGPT
+
+Notion + ChatGPT = 🔥

@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* hover:underline */
+
+a {
+    @apply text-yellow-500 my-2;
+}
